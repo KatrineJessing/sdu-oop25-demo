@@ -3,6 +3,6 @@
 - primitive typer
 - branching
 - data
-- funktioner
+- fun
 - exceptions
 
